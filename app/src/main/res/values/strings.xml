@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="nav_item_popular_news_label">Popular</string>
+    <string name="nav_item_popular_news_sport_label">Sport</string>
+    <string name="nav_item_popular_news_science_label">Science</string>
+    <string name="nav_item_popular_news_business_label">Business</string>
+    <string name="main_screen_top_bar_nav_icon_description">Navigation icon</string>
+    <string name="main_screen_top_bar_action_icon_description">Action icon</string>
+</resources>
